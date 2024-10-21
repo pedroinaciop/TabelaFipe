@@ -1,7 +1,7 @@
 # Tabela FIPE
 
 Projeto onde utilizo o Spring Framework em um projeto com linha de comando, realizo a desserialização de dados com a biblioteca Jackson, 
-aplico boas práticas de desenvolvimento com funções lambdas e para finalizar manipulo fluxo de dados com Streams.
+aplico boas práticas de desenvolvimento com funções lambdas e, para finalizar, manipulo fluxo de dados com Streams.
 
 ## Objetivo do projeto
 Consultar os preços de veículos (carro, moto e caminhão) na tabela FIPE com base nas informações fornecidas pelo usuário.
