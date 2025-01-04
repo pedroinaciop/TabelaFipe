@@ -10,7 +10,7 @@ Consultar os preços de veículos (carro, moto e caminhão) na tabela FIPE com b
 ![Imagem de demonstração](https://github.com/pedroinaciop/zndental-api/blob/main/images/img-tbl-fipe-1.png)
 
 ## Tecnologias utilizadas
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 ## Autor
 
